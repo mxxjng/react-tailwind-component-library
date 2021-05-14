@@ -1,3 +1,2 @@
-## Gatsby Typescript starter
-
-A Gatsby Typescript starter with eslint and styled-components
+# react-tailwind-component-library
+A component library created with tailwind and react
