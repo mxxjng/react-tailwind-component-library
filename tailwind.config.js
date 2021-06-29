@@ -21,11 +21,11 @@ module.exports = {
             textColor: '#C5C6D3',
             disabled: '#15171E',
             headline: '#ffffff',
+            primaryHover: '#ca0034',
         },
         extend: {},
     },
     variants: {
         extend: {},
     },
-    plugins: [],
 };
